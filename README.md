@@ -109,7 +109,7 @@ ____
  <h2>Vaibhav Stat's</h2>
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
       <a href="https://benyou.me">
