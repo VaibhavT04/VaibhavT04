@@ -1,7 +1,7 @@
 <img src="https://github.com/VaibhavT04/VaibhavT04/blob/main/svg.svg"/>
 
 
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Vaibhav</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -11,11 +11,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Engineering at VCET,Mumbai and coding stuffs.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing AI/ML & Web Development.
 
 
 
@@ -23,13 +23,13 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
+- 🛢 &nbsp; MySQL | MongoDB
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
@@ -41,7 +41,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
 <hr>
 
