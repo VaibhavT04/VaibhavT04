@@ -1,7 +1,7 @@
 <img src="https://github.com/VaibhavT04/VaibhavT04/blob/main/svg.svg"/>
 
 
-<h1 align="center">Hi 👋, I'm Salman</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
