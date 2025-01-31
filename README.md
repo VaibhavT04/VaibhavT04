@@ -81,7 +81,7 @@
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 -->
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tatkare-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vaibhav-tatkare-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tatkare-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:vaibhavtatkare@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-vaibhavtatkare@outlook.com-blue?style=flat-square&logo=outlook"></a>
 
