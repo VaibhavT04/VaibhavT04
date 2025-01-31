@@ -49,7 +49,7 @@
 
 <br/><br/>
 
-[![Vaibhav's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true])](https://github.com/VaibhavT04)
+[![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true)](https://github.com/VaibhavT04)
 
 <br/>
 
