@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Vaibhav</h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/VaibhavT04/VaibhavT04/blob/main/profile-img.png" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -109,7 +109,7 @@ ____
 
 <br/>
 
-<img src="https://github.com/VaibhavT04/VaibhavT04/blob/main/profile-img.png" width="350" align='right'>
+<!-- <img src="https://github.com/VaibhavT04/VaibhavT04/blob/main/profile-img.png" width="350" align='right'> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavT04&show_icons=true)
 
