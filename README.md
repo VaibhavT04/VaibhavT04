@@ -105,14 +105,8 @@ ____
 
 
 
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
- <h2>Vaibhav Stat's</h2>
-  <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true&theme=dracula" />
+
 
 <br/>
 
