@@ -27,7 +27,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://github.com/user-attachments/assets/89bf3ba9-d067-4e9d-8e1f-f257d6ec67bf"> 
+<img height=60px src="https://github.com/user-attachments/assets/96af84b3-3ae1-4537-a031-9e85dbca7658"> 
 </td>
 
 <td align="center" width="20%">
@@ -42,14 +42,16 @@
 </tr>
 
 <tr>
+
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>VueJS</center></b></span> 
+<img height=65px src="https://github.com/user-attachments/assets/4bad3d2c-0829-48d3-9460-bfdb8e123a8a"> 
 </td>
+
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=65px src="https://github.com/user-attachments/assets/343abd3f-8cca-4544-bdf3-0362ae551672"> 
 </td>
 
 <td align="center" width="20%">
@@ -60,32 +62,32 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>API's</center></b></span> 
+<img height=65px src="https://github.com/user-attachments/assets/c9e211f8-9eb9-4473-a066-6fab83aea3ce"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<img height=65px src="https://github.com/user-attachments/assets/ffe24164-553d-4515-8358-061f5dc9fe7d"> 
 </td>
 
 
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+<span><b><center>TailWindCSS</center></b></span> 
+<img height=65px src="https://github.com/user-attachments/assets/b81c3579-d05a-4f43-8b16-d30fd64fd59d"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<span><b><center>MySQL</center></b></span> 
+<img height=65px src="https://github.com/user-attachments/assets/bc67d5c5-94cf-4549-9540-338c9105f5a5"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<span><b><center>ML</center></b></span> 
+<img height=65px src="https://github.com/user-attachments/assets/20ad941e-3bc1-4bfb-bf90-c3e10ab40282"> 
 </td>
 
 <td align="center" width="20%">
