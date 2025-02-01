@@ -27,7 +27,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<img height=60px src="https://github.com/user-attachments/assets/89bf3ba9-d067-4e9d-8e1f-f257d6ec67bf"> 
 </td>
 
 <td align="center" width="20%">
