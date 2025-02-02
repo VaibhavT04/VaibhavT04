@@ -107,7 +107,7 @@ ____
 
 
 
-<img align="left" width=60% src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true&theme=dracula" /> 
+<img align="left" width=62% src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true&theme=dracula" /> 
 <br/>
 <br/>
 <br/>
