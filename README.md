@@ -1,6 +1,3 @@
-<!-- <img src="https://github.com/VaibhavT04/VaibhavT04/blob/main/svg.svg"/> -->
-
-
 <h1>Hi 👋, I'm Vaibhav</h1>
 
 <img align='right' src="https://github.com/VaibhavT04/VaibhavT04/blob/main/profile-img.png" width="230">
