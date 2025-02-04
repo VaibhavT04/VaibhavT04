@@ -1,4 +1,4 @@
-## Hey, [Vaibhav here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, Vaibhav here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <img align='right' src="https://github.com/VaibhavT04/VaibhavT04/blob/main/profile-img.png" width="230">
 
