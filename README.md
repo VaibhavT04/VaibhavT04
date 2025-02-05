@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github.com/VaibhavT04/VaibhavT04/blob/main/profile-img.png" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 About Me</h3>
 
 
 
