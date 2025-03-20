@@ -127,22 +127,12 @@ ____
 
 <br>
 
-
-
-<p align="center">
-
-<!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> 
-<a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
--->
-
-<a href="https://www.linkedin.com/in/vaibhav-tatkare-code/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Tatkare-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:vaibhavtatkare@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-vaibhavtatkare@outlook.com-blue?style=flat-square&logo=outlook"></a>
-
+<p align="left">
+<a href="https://www.linkedin.com/in/vaibhav-tatkare-code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav's LinkedIn" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/Code_Phoenix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vaibhav's LinkedIn" height="30" width="40" /></a>
+  <a href="https://medium.com/@vaibhavtatkare2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Vaibhav's LinkedIn" height="30" width="40" /></a>
 </p>
-
+<a href="mailto:vaibhavtatkare@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-vaibhavtatkare@outlook.com-blue?style=flat-square&logo=outlook"></a>
 
 
 
