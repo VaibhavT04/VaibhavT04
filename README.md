@@ -48,9 +48,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VaibhavT04&show_icons=true&theme=dracula" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavT04&theme=dracula" height="180"/>
-</p>
-<p align="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavT04&theme=dracula" height="180"/> -->
+<!-- </p>
+<p align="center"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavT04&layout=compact&theme=dracula"/>
 </p>
 
