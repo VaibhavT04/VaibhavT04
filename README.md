@@ -19,7 +19,7 @@
 
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,py,java,c,html&perline=8" />
