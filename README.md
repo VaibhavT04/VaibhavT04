@@ -10,7 +10,7 @@
 - 🎓 4th Year Computer Engineering Student at **VCET, Mumbai**  
 - 🧠 Passionate about **AI, LLMs, and building real-world products**
 - 🛠 Currently working on: `IntelliPrep – AI Interview Platform`
-- 🌱 Learning: `Next.js`, `LangChain`, `Cloud Systems`, and `System Design`
+- 🌱 Learning: `Next.js`, `GenAi`, `RAG`, and `System Design`
 - 🏆 Finalist at **AgentX Hackathon** & **Coherence**
 - 📫 Reach me at: [vaibhavtatkare@outlook.com](mailto:vaibhavtatkare@outlook.com)
 
