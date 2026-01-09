@@ -9,7 +9,7 @@
 
 - 🎓 4th Year Computer Engineering Student at **VCET, Mumbai**  
 - 🧠 Passionate about **AI, LLMs, and building real-world products**
-- 🛠 Currently working on: `Automated Cold Mail System - GenAI`
+- 🛠 Currently working on: `E2E Company policy RAG system - GenAI`
 - 🌱 Learning: `Next.js`, `GenAi`, `RAG`, and `System Design`
 - 🏆 Finalist at **AgentX Hackathon** & **Coherence**
 - 📫 Reach me at: [vaibhavtatkare@outlook.com](mailto:vaibhavtatkare@outlook.com)
