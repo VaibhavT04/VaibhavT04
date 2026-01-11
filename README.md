@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Vaibhav Tatkare</h1>
-<h3 align="center">🚀 AI/ML Explorer | 💻 Full-Stack Developer | 🎯 Problem Solver
+<h3 align="center">🚀 AI-GenAI/RAG Explorer | 💻 Full-Stack Developer | 🎯 Problem Solver
 
 ---
 
